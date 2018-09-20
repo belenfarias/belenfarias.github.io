@@ -1,7 +1,9 @@
+/*This is the format of the background*/
 body {
 	background-color: #F9D8D4;
 }
 
+/*This is the format of my name text*/
 h1 {
   text-align:center;
   color: #FCFCF9;
@@ -9,6 +11,7 @@ h1 {
   font-size: 120px;
 }
 
+/*This is the format of the hyperlinks*/
 h2 {
   text-align:center;
   color: #FCFCF9;
@@ -16,6 +19,7 @@ h2 {
   font-size: 90px;
 }
 
+/*This is the format of the picture*/
 p{
   text-align: center;
 }

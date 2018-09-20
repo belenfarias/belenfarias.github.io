@@ -1,7 +1,9 @@
+/*This is the format the background*/
 body {
 	background-color: #F9D8D4;
 }
 
+/*This is the format of the title*/
 h1 {
   text-align:center;
   color: #FCFCF9;
@@ -9,6 +11,7 @@ h1 {
   font-size: 120px;
 }
 
+/*This is the format of the text*/
 p {
   text-align:center;
   color: #FCFCF9;
@@ -20,6 +23,7 @@ p {
   border-width: thick;
 }
 
+/*This is the format of the picture*/
 h2{
   text-align: center;
 }

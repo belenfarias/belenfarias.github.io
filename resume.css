@@ -1,7 +1,9 @@
+/*This is the format of the background*/
 body {
 	background-color: #F9D8D4;
 }
 
+/*This is the format of the Resume Text*/
 h1 {
   text-align:center;
   color: #FCFCF9;
@@ -9,6 +11,7 @@ h1 {
   font-size: 150px;
 }
 
+/*This is the format of the Tufts Text*/
 h2 {
   text-align:center;
   font-family: Arial;
@@ -19,6 +22,7 @@ h2 {
   border-width: thin;
 }
 
+/*This is the format of the Major/Minor Text*/
 h3 {
   text-align:center;
   font-family: Arial;
@@ -26,6 +30,7 @@ h3 {
   font-size: 30px;
 }
 
+/*This is the format of the Subheadings Text*/
 h4 {
   text-align:center;
   font-family: Arial;
@@ -36,6 +41,7 @@ h4 {
   border-width: thin;
 }
 
+/*This is the format of the main text*/
 p{
   text-align:center;
   font-family: helvetica;
