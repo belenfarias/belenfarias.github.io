@@ -15,4 +15,11 @@ p {
   font-family: Arial;
   font-style: bold;
   font-size: 20px;
+  border-style: solid;
+  border-color: white;
+  border-width: thick;
+}
+
+h2{
+  text-align: center;
 }
