@@ -1,0 +1,21 @@
+body {
+	background-color: #F9D8D4;
+}
+
+h1 {
+  text-align:center;
+  color: #FCFCF9;
+  font-family: helvetica;
+  font-size: 120px;
+}
+
+h2 {
+  text-align:center;
+  color: #FCFCF9;
+  font-family: helvetica;
+  font-size: 90px;
+}
+
+p{
+  text-align: center;
+}
